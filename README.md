@@ -61,5 +61,4 @@ The **Light Mood Changer** is an Arduino-based project that uses a photoresistor
 ## 🙌 Credits
 
 **Created by:** Zahara BG  
-Inspired by ambient lighting and real-world mood lamps.  
-Thanks to the Arduino community for example projects and guidance.
+
