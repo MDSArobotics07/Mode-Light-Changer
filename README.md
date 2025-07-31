@@ -23,12 +23,15 @@ Upload the code:
 Connect your Arduino to your computer via USB.
 Open the Arduino IDE.
 Upload the provided sketch (see LightMoodChanger.ino).
+
 💡 How It Works
 
 The photoresistor measures ambient light levels.
 When the room is bright, the RGB LED displays warm or brighter colors.
 When the room is dim or dark, the LED shifts to cooler or darker colors.
 This creates a visual “mood” that reflects the lighting environment.
+
+
 🖼️ Images / Videos
 enter image description here----------
 
